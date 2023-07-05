@@ -1,0 +1,16 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "This Backend Development project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actress": "^0.1.0-alpha",
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0"
+  }
+}
